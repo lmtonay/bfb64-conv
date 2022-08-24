@@ -1,0 +1,38 @@
+{
+  "name": "bfb64-conv",
+  "version": "1.0.1",
+  "description": "A package for converting types between base64, blob and file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmtonay/bfb64-conv.git"
+  },
+  "keywords": [
+    "base64toblob",
+    "base64tofile",
+    "filetoblob",
+    "blobtofile",
+    "blobtobase64",
+    "filetobase64",
+    "npm",
+    "base64",
+    "blob",
+    "file",
+    "js-convert",
+    "convert-file",
+    "convert-types"
+  ],
+  "author": "Labib Mahfuz Tonay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmtonay/bfb64-conv/issues"
+  },
+  "homepage": "https://github.com/lmtonay/bfb64-conv#readme",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "btoa": "^1.2.1"
+  }
+}
