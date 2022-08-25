@@ -32,7 +32,6 @@
   },
   "homepage": "https://github.com/lmtonay/bfb64-conv#readme",
   "dependencies": {
-    "atob": "^2.1.2",
-    "btoa": "^1.2.1"
+    "atob": "^2.1.2"
   }
 }

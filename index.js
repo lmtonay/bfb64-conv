@@ -1,5 +1,4 @@
 const atob = require('atob');
-const btoa = require('btoa');
 
 function b64toBlob(base64, mime) {
   mime = mime || '';
