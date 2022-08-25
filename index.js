@@ -47,7 +47,7 @@ function blobtoB64(blob, cb) {
     cb(err);
   };
 
-  return rdr;
+  return rdr.result;
 }
 
 function blobtoFile(blob, filename) {
@@ -66,7 +66,7 @@ function filetoB64(file, cb) {
     cb(err);
   };
 
-  return rdr;
+  return rdr.result;
 }
 
 function filetoBlob(file) {
