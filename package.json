@@ -1,6 +1,6 @@
 {
   "name": "bfb64-conv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package for converting types between base64, blob and file",
   "main": "index.js",
   "scripts": {
